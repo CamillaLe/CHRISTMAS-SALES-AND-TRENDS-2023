@@ -3,21 +3,19 @@ This Power BI project analyzes Christmas sales data to uncover actionable insigh
 
 📌 Project Description
 
-The dashboard focuses on evaluating sales trends and store performance during the Christmas season to support data-driven decision-making. Key analytical components include:
+• Top 5 Store Performance — Ranking stores by gross sales to highlight leading contributors during the Christmas period.
 
-• Top 5 Store Performance – Identifying the highest-revenue stores and their contribution to overall Christmas sales.
+• Sales by Product Category — Identifying high-performing categories to optimize product focus.
 
-• Product Category Insights – Assessing which product categories drive seasonal revenue.
+• Promotion Impact — Comparing promoted vs. non-promoted sales to assess discount effectiveness.
 
-• Promotion Effectiveness – Comparing sales with/without promotions and their influence on purchasing behavior.
+• Customer Satisfaction Analysis — Reviewing satisfaction scores to understand service quality and product appeal.
 
-• Customer Satisfaction – Visualizing satisfaction scores across categories to understand experience quality.
+• Sales by Location — Visualizing revenue distribution across store locations.
 
-• Geographic Differences – Analyzing sales and satisfaction patterns across store locations.
+• Sales Trend Over Time — Monitoring sales patterns throughout the year to capture seasonal spikes.
 
-• Retail Trend Analysis – Tracking gross sales trends over the year to measure seasonal performance impact.
-
-Interactive slicers and dynamic drill-down features allow business users to explore insights intuitively and make better strategic and operational decisions.
+The dashboard includes interactive slicers, dynamic filtering, and drill-down capabilities, enabling stakeholders to explore insights and support business decision-making for future holiday seasons.
 
 📌 Data:
 https://docs.google.com/spreadsheets/d/1dGQFTyNBMsbvofWYcsDHiTGy4RMgN-Cq/edit?usp=drive_link&ouid=100927075487613237708&rtpof=true&sd=true
